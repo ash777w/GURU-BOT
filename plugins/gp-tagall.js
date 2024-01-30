@@ -9,6 +9,6 @@ handler.help = ['tagall']
 handler.tags = ['group']
 handler.command = ['tagall']
 handler.Premium = true
-handler.group = true
+handler.owner = true
 
 export default handler
