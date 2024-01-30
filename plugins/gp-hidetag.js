@@ -22,6 +22,6 @@ handler.help = ['hidetag']
 handler.tags = ['group']
 handler.command = ['hidetag', 'notify'] 
 handler.group = true
-handler.Premium = true
+handler.owner = true
 
 export default handler
