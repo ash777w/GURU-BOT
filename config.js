@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['62857872630745', 'ASH', true],
-  ['62857872630745', '', true], 
+  ['6281255369012', 'ASH', true],
+  ['6281255369012', '', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['62857872630745','62857872630746' , '393896506604' ] 
-global.prems = ['62857872630745', '26657731736', '393896506604']
-global.allowed = ['50662666999', '26657731736', '393896506604']
+global.mods = ['6281255369012','62857872630746' , '393896506604' ] 
+global.prems = ['6281255369012', '26657731736', '393896506604']
+global.allowed = ['6281255369012', '26657731736', '393896506604']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ASH-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ NO4H-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'ASH' 
+global.packname = 'NO4H' 
 global.author = '@' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com\n' 
